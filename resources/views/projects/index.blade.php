@@ -34,7 +34,7 @@
             <th>CPF</th>
             <th>Data de Nascimento</th>
             <th>Sexo</th>
-            
+            <th>Editor</th>
         </tr>
         @foreach ($projects as $project)
             <tr>
